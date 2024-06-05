@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, my name is Caleb Morton
+### Aerospace Engineering Ph.D. student at The Ohio State University
+Multi-physics Interactions Research Group
+
+- Currently working on reduced order modelling of turbulent flow
 
 <!--
 **morton311/morton311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
